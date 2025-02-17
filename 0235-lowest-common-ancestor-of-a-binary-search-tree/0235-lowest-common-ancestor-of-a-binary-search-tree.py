@@ -15,4 +15,3 @@ class Solution:
                 node = node.right
             else:
                 return node
-                
