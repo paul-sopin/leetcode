@@ -6,7 +6,7 @@ class Solution:
         minimum = 1
         maximum = n
         mid = (minimum + maximum) // 2
-        if isBadVersion(maximum) == True and isBadVersion(maximum - 1) == False:
+        if isBadVersion(maximum) and not isBadVersion(maximum - 1):
             return maximum
         while isBadVersion(mid) == isBadVersion(mid - 1):
             if isBadVersion(mid) == False:
