@@ -41,4 +41,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/paul-sopin/leetcode/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/paul-sopin/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/paul-sopin/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/paul-sopin/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
