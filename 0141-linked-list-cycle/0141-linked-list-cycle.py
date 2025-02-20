@@ -15,3 +15,4 @@ class Solution:
                     node.val = 100001
                     node = node.next
         return False
+        
