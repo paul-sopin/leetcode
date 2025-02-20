@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/paul-sopin/leetcode/tree/master/0733-flood-fill) |
+| [2107-find-unique-binary-string](https://github.com/paul-sopin/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/paul-sopin/leetcode/tree/master/0141-linked-list-cycle) |
+| [2107-find-unique-binary-string](https://github.com/paul-sopin/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Linked List
 |  |
 | ------- |
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/paul-sopin/leetcode/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/paul-sopin/leetcode/tree/master/2107-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/paul-sopin/leetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
