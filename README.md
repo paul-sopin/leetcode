@@ -39,6 +39,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/paul-sopin/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/paul-sopin/leetcode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/paul-sopin/leetcode/tree/master/2107-find-unique-binary-string) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/paul-sopin/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/paul-sopin/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
