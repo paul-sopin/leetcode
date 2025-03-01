@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/paul-sopin/leetcode/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/paul-sopin/leetcode/tree/master/0383-ransom-note) |
 | [2107-find-unique-binary-string](https://github.com/paul-sopin/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/paul-sopin/leetcode/tree/master/0383-ransom-note) |
 | [2107-find-unique-binary-string](https://github.com/paul-sopin/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/paul-sopin/leetcode/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/paul-sopin/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
